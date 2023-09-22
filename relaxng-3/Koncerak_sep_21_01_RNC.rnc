@@ -1,0 +1,11 @@
+start = root
+root = element root {title?, author?, born-died, stan+, repeat*, tally*, IP?, origin?, text}
+title = element title {text}
+author = element author {text}
+born-died = element born-died {text}
+stan = element stan {(text | device+)*}
+device = element device {(text, repeat*, tally*)}
+repeat = attribute repeat {text}
+tally = attribute tally {text}
+IP = element IP {text}
+origin = element origin {text}
