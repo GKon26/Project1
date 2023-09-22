@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="Koncerak_sep_21_01_RNC.rnc" type="application/relax-ng-compact-syntax"?>
+<root><title>Leaves</title>
+    <author>Lloyd Schwartz</author>
+    <born-died>1941 –</born-died>
+    <stan>Every October it becomes important, no, necessary to see the leaves <device
+            repeat="turning">turning, to be surrounded by leaves turning</device>; it's not just the
+        symbolism, to confront in the death of the year your death, one blazing farewell appearance,
+        though the irony isn't lost on you that nature is most seductive when it's about to <device
+            repeat="die">die, flaunting the dazzle of its incipient exit, an ending that at least so
+            far the effects of human progress (pollution, acid rain) have not yet frightened you
+            enough to make you believe is real; that is, you know this ending is a deception because
+            of course nature is always renewing itself— the trees don't die</device>, they just
+        pretend, go out in style, and return in <device repeat="style">style: a new
+        style</device>.</stan>
+    <!--This entire first stanza is one sentence, which is why I found myself running out of breath reading it out loud-->
+    <!--It's full of punctuation but never any that end the sentence-->
+    <stan>Is it deliberate how <device repeat="far">far they make you go especially if you live in
+            the city to get far</device> enough away from home to see not just <device
+            repeat="trees">trees but only trees</device>? The boring highways, roadsigns, high
+        speeds, 10-axle trucks passing you as if they were in an even greater hurry than you to look
+        at leaves: so you drive in terror for literal hours and it looks like rain, or snow, but
+        it's probably just clouds (too cloudy to see any color?) and you wonder, given the poverty
+        of your memory, which road had the most color last year, but it doesn't matter since you're
+            <device repeat="probably">probably too late anyway, or too early— whichever road you
+            take will be the wrong one and you've probably</device> come all this way for
+        nothing.</stan>
+    <!--The second stanza is now two sentences compared to the first one's one -->
+    <stan>You'll be driving along depressed when suddenly a cloud will move and the sun will muscle
+        through and ignite the hills. It may not last. Probably won't last. But for a moment the
+        whole world comes to. Wakes up. Proves it <device repeat="lives">lives. It lives</device>—
+            <device tally="colors">red, yellow, orange, brown, russet, ocher, vermilion,
+            gold</device>. <device repeat="Flame and rust">Flame and rust. Flame and rust</device>,
+        the permutationsof burning. You're <device repeat="on fire">on fire. Your eyes are on
+            fire</device>.It won't <device repeat="last">last, you don't want it to last</device>.
+        You can't stand any more. But you don't want it to stop. It's what <device
+            repeat="you've and you'll">you've come for. It's what you'll come back for. It won't
+            stay with you, but you'll remember that it felt like nothing else you've</device> felt
+        or something you've felt that also didn't last.</stan>
+    <!--The last stanza is full of sentences, the complete opposite of the first stanza -->
+    <IP>Copyright © 1992 by Lloyd Schwartz.</IP>
+    <origin>From Goodnight, Gracie (The University of Chicago Press, 1992).</origin> Appears
+    courtesy of the author.
+</root>
